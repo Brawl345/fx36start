@@ -6,11 +6,13 @@ Based on [nocturnal](https://github.com/mozilla/nocturnal/), it takes a single
 jinja2 template, throws in some translations from .lang files,, and generates a
 bunch of static, localized output files.
 
+You can visit the site online at http://andibi.tk/start/$COUNTRY_CODE e.g. [http://andibi.tk/start/de/](http://andibi.tk/start/de/)
+
 ## Usage
 
 ### Checkout
 
-    git clone git://github.com/mozilla/fx36start.git
+    git clone git://github.com/Brawl345/fx36start.git
 
 The localization files live in SVN. Check them out into the subdirectory
 "locale" to pull in translations.
